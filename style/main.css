@@ -12,7 +12,9 @@ body {
 h1 {
   font-family: "Andale Mono", Times, serif;
 }
-
+h2 {
+  font-family: "Andale Mono", Times, serif;
+}
 p {
   font-family: "Andale Mono", Helvetica, sans-serif;
 }
