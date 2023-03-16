@@ -1,14 +1,18 @@
+header {
+  background-color: #ff868a;
+  color: #a7eb9b;
+  padding: 10px;
+  text-align: center;
+}
 body {
-  background-color: lightgrey;
-  color: blue;
+  background-color: #86c6ff;
+  color: #fffc86;
 }
 
 h1 {
-  background-color: black;
-  color: white;
+  font-family: "Andale Mono", Times, serif;
 }
 
-div {
-  background-color: blue;
-  color: white;
+p {
+  font-family: "Andale Mono", Helvetica, sans-serif;
 }
