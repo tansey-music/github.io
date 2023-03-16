@@ -8,6 +8,10 @@ body {
   background-color: #86c6ff;
   color: #fffc86;
 }
+a {
+  color: #fffc86;
+  text-decoration: none;
+}
 
 h1 {
   font-family: "Andale Mono", Times, serif;
