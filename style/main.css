@@ -1,17 +1,17 @@
 header {
-  background-color: #fffdd0;
-  color: #474646;
+  background-color: #000000;
+  color: #ffffff;
   padding: 10px;
   text-align: center;
 }
 body {
-  background-color: #1c2d3b;
-  color: #98b574;
+  background-color: #ffffff;
+  color: #4ab7ed;
   padding: 10px;
   text-align: center;
 }
 a {
-  color: 	#fb7c66;
+  color: 	#f56775;
   text-decoration: none;
 }
 
