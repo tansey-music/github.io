@@ -17,7 +17,7 @@ a {
 #bg-vid {
   width: 100vw;
   height: 100vh;
-  object-fit: cover;
+  object-fit: fill;
   position: fixed;
   left: 0;
   right: 0;
