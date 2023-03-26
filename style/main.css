@@ -18,7 +18,7 @@ a {
   width: 100vw;
   height: 100vh;
   object-fit: fill;
-  position: fixed;
+  position: cover;
   left: 0;
   right: 0;
   top: 0;
